@@ -1,0 +1,47 @@
+{
+  "about": {
+    "title": "Về DH26 LAW",
+    "eyebrow": "HIỂU VỀ CHÚNG TÔI",
+    "description": "Thông tin doanh nghiệp, người đại diện và đăng ký hoạt động của Công ty Luật TNHH DH26 LAW.",
+    "seo": { "title": "Giới thiệu công ty | DH26 LAW", "description": "Thông tin Công ty Luật TNHH DH26 LAW tại Hà Nội, Luật sư Bùi Xuân Dương và giấy đăng ký hoạt động do Sở Tư pháp TP. Hà Nội cấp." },
+    "legalHeading": "Thông tin pháp lý",
+    "representativeHeading": "Người đại diện công ty",
+    "scopeHeading": "Lĩnh vực hoạt động đăng ký",
+    "intro": "DH26 LAW cung cấp dịch vụ pháp lý theo phạm vi đăng ký hoạt động, hướng đến nhu cầu của cá nhân và doanh nghiệp. Việc tiếp nhận và triển khai từng yêu cầu được trao đổi dựa trên thông tin thực tế và thỏa thuận với khách hàng."
+  },
+  "services": {
+    "title": "Dịch vụ pháp lý",
+    "eyebrow": "LĨNH VỰC HOẠT ĐỘNG",
+    "description": "Tìm hiểu bốn lĩnh vực hoạt động theo đăng ký của công ty và lựa chọn nội dung bạn cần trao đổi.",
+    "seo": { "title": "Dịch vụ pháp lý | DH26 LAW", "description": "Bốn lĩnh vực hoạt động của DH26 LAW: tham gia tố tụng, tư vấn pháp luật, đại diện ngoài tố tụng và dịch vụ pháp lý khác." },
+    "relatedHeading": "Các lĩnh vực khác",
+    "ctaHeading": "Bạn cần trao đổi về trường hợp của mình?",
+    "ctaDescription": "Liên hệ để công ty tiếp nhận thông tin và trao đổi phạm vi hỗ trợ phù hợp."
+  },
+  "contact": {
+    "title": "Liên hệ tư vấn",
+    "eyebrow": "KẾT NỐI VỚI DH26 LAW",
+    "description": "Chia sẻ ngắn gọn nhu cầu pháp lý của bạn hoặc liên hệ trực tiếp với công ty.",
+    "seo": { "title": "Liên hệ tư vấn | DH26 LAW", "description": "Liên hệ Công ty Luật TNHH DH26 LAW qua biểu mẫu tư vấn, điện thoại hoặc email. Văn phòng tại Thái Hà, phường Đống Đa, Hà Nội." }
+  },
+  "privacy": {
+    "title": "Chính sách bảo mật",
+    "eyebrow": "THÔNG TIN & QUYỀN RIÊNG TƯ",
+    "description": "Cách tiếp nhận và xử lý thông tin được gửi qua biểu mẫu liên hệ của website.",
+    "seo": { "title": "Chính sách bảo mật | DH26 LAW", "description": "Bản dự thảo chính sách tiếp nhận và xử lý thông tin liên hệ trên website DH26 LAW, đang chờ công ty rà soát pháp lý." },
+    "draftNotice": "Bản dự thảo — chờ công ty rà soát pháp lý và phê duyệt trước khi vận hành chính thức.",
+    "sections": [
+      { "heading": "Thông tin được tiếp nhận", "text": "Khi sử dụng biểu mẫu, bạn cung cấp họ tên, số điện thoại, email, nội dung cần hỗ trợ và sự đồng ý xử lý thông tin. Không gửi mật khẩu, giấy tờ gốc hoặc tài liệu nhạy cảm qua biểu mẫu." },
+      { "heading": "Mục đích sử dụng", "text": "Thông tin được sử dụng để liên hệ, làm rõ và xử lý yêu cầu tư vấn của bạn. Gửi biểu mẫu chưa làm phát sinh quan hệ cung cấp dịch vụ pháp lý hoặc xác nhận công ty đã nhận thực hiện vụ việc." },
+      { "heading": "Hạ tầng xử lý và bên cung cấp dịch vụ", "text": "Website sử dụng Vercel để vận hành, Cloudflare Turnstile để xác minh chống spam và Resend để chuyển yêu cầu đến hộp thư công ty. Khi tính năng lưu Google Sheets được kích hoạt, thông tin liên hệ, nội dung yêu cầu, sự đồng ý xử lý thông tin, thời điểm tiếp nhận và mã yêu cầu được lưu trong bảng tính riêng trên Google Sheets để công ty theo dõi và xử lý. Token xác minh được gửi đến Cloudflare và không được lưu trong bảng tính. Website không lưu yêu cầu vào kho JSON công khai." },
+      { "heading": "Lưu giữ và bảo vệ thông tin", "text": "Yêu cầu được tiếp nhận qua hộp thư công ty và bảng tính riêng trên Google Sheets khi được kích hoạt. Quyền truy cập được giới hạn cho người có trách nhiệm xử lý yêu cầu. Thời hạn lưu giữ, quyền truy cập nội bộ và quy trình xóa dữ liệu tại hộp thư và bảng tính cần được công ty xác định, phê duyệt và cập nhật trước khi biểu mẫu được vận hành chính thức." },
+      { "heading": "Yêu cầu liên quan đến thông tin cá nhân", "text": "Bạn có thể liên hệ công ty qua email hoặc điện thoại bên dưới để đề nghị kiểm tra, chỉnh sửa, xóa thông tin hoặc trao đổi về việc rút lại sự đồng ý. Việc tiếp nhận và xử lý được công ty xem xét theo quy định áp dụng." },
+      { "heading": "Cookies, theo dõi và cập nhật chính sách", "text": "V1 không tích hợp công cụ quảng cáo hoặc thống kê người dùng. Công cụ xác minh chống spam có thể sử dụng các cơ chế kỹ thuật cần thiết để hoạt động. Khi thay đổi mục đích hoặc công cụ xử lý dữ liệu, công ty cần rà soát và cập nhật chính sách tương ứng." }
+    ]
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "description": "Đường dẫn có thể đã thay đổi hoặc trang bạn tìm kiếm hiện không tồn tại.",
+    "code": "404"
+  }
+}

@@ -1,0 +1,7 @@
+[
+  { "label": "Trang chủ", "href": "/" },
+  { "label": "Giới thiệu", "href": "/gioi-thieu" },
+  { "label": "Dịch vụ", "href": "/dich-vu" },
+  { "label": "Quy trình", "href": "/#quy-trinh" },
+  { "label": "Liên hệ", "href": "/lien-he" }
+]

@@ -1,0 +1,13 @@
+{
+  "slug": "dich-vu-phap-ly-khac",
+  "title": "Dịch vụ pháp lý khác",
+  "icon": "file",
+  "summary": "Tiếp nhận và xem xét các yêu cầu dịch vụ pháp lý khác theo quy định pháp luật.",
+  "body": [
+    { "heading": "Trao đổi nhu cầu pháp lý cụ thể", "text": "Đối với yêu cầu chưa thuộc các nhóm giới thiệu trên website, bạn có thể liên hệ để công ty xem xét nội dung và khả năng hỗ trợ trong phạm vi hoạt động đăng ký." },
+    { "heading": "Xem xét khả năng tiếp nhận", "text": "Công ty trao đổi thông tin ban đầu, tính chất công việc và các điều kiện có liên quan trước khi xác nhận tiếp nhận yêu cầu. Không phải mọi yêu cầu gửi đến đều mặc nhiên được chấp nhận." },
+    { "heading": "Thỏa thuận trước khi thực hiện", "text": "Công việc, chi phí và cách phối hợp chỉ được triển khai theo thỏa thuận giữa công ty và khách hàng. Vui lòng liên hệ để trao đổi chi tiết về nhu cầu của bạn." }
+  ],
+  "seo": { "title": "Dịch vụ pháp lý khác | DH26 LAW", "description": "Liên hệ Công ty Luật TNHH DH26 LAW tại Hà Nội để trao đổi các yêu cầu dịch vụ pháp lý khác theo phạm vi hoạt động đăng ký." },
+  "status": "published"
+}

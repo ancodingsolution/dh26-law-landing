@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-25",
+  "hero": {
+    "prompt": "Use case: photorealistic-natural. Asset type: background photograph for the existing DH26 LAW Vietnamese law firm website hero, not a website mockup. Create an elegant cinematic still life in a refined law office. An antique polished brass balance scale with two perfectly balanced dishes occupies the RIGHT HALF of a wide horizontal photograph, next to a neat stack of thick dark navy leather law books with subtle gold-edged pages and a black and gold fountain pen on a dark polished stone desk. Warm natural window light from upper right, realistic brass highlights, restrained luxury, architectural background softly blurred. LEFT HALF is mostly empty deep navy shadow, almost black-blue, leaving ample dark space for live HTML heading and CTA overlay. Landscape about 1792x1024 or 16:9 composition. Palette deep navy #071e32, warm gold #c8a46b, dark wood, warm ivory. Professional editorial still-life photography, fine natural material textures. Absolutely NO people, faces, silhouettes, hands, human statues, portraits, logos, brand marks, watermarks, readable text or interface elements. Do not add the website layout, a mobile phone or any lettering. This is an illustrative still life, not a claim to depict the company's real office.",
+    "path": "public/images/legal-hero-v2.webp"
+  },
+  "architecture": {
+    "prompt": "Use case: photorealistic-natural. Asset type: illustration photograph for the about section of DH26 LAW Vietnamese law firm website, not their actual building. Elegant close perspective looking upward along warm ivory neoclassical stone courthouse columns, two large intricately carved column capitals at the LEFT and CENTER, realistic limestone detail and subtle age, bright pale blue sky on the upper right and soft sunlit greenery in the lower right. Tasteful premium architectural editorial photography, peaceful trustworthy atmosphere, warm morning sunlight, navy and ivory tones with soft golden highlights. Horizontal landscape crop approximately 4:3. Fill frame with architecture, natural materials and light. Absolutely NO people, faces, human-shaped statues, hands, portraits, logos, signs, coats of arms, identifiable official emblems, readable text, watermarks or interface. Do not create a website mockup or phone. Architecture is generic and illustrative, do not portray a recognizable real courthouse or pretend this is DH26 LAW's office.",
+    "path": "public/images/legal-architecture-v2.webp"
+  },
+  "constraints": [
+    "Illustrative images, not company office photographs.",
+    "No people, faces, human statues, logos or generated corporate marks.",
+    "The screenshot is a visual layout reference; its logo has not been recreated."
+  ]
+}

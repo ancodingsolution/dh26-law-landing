@@ -1,0 +1,13 @@
+{
+  "slug": "tu-van-phap-luat",
+  "title": "Tư vấn pháp luật",
+  "icon": "book",
+  "summary": "Hỗ trợ giải đáp và tư vấn các vấn đề pháp lý theo nhu cầu của cá nhân và doanh nghiệp.",
+  "body": [
+    { "heading": "Làm rõ vấn đề pháp lý", "text": "Tư vấn bắt đầu từ việc tiếp nhận câu hỏi, bối cảnh và mục tiêu của khách hàng. Các thông tin liên quan giúp xác định nội dung cần xem xét và hướng trao đổi phù hợp." },
+    { "heading": "Chuẩn bị cho buổi trao đổi", "text": "Bạn nên tóm tắt vấn đề, các mốc thời gian và câu hỏi cần được giải đáp. Không gửi bản gốc giấy tờ hoặc thông tin nhạy cảm qua biểu mẫu công khai." },
+    { "heading": "Nội dung và phương thức tư vấn", "text": "Phạm vi, hình thức tư vấn và chi phí được công ty trao đổi dựa trên yêu cầu thực tế. Thông tin giới thiệu trên website không thay thế ý kiến tư vấn dành riêng cho từng trường hợp." }
+  ],
+  "seo": { "title": "Tư vấn pháp luật | DH26 LAW", "description": "Tìm hiểu dịch vụ tư vấn pháp luật của Công ty Luật TNHH DH26 LAW tại Hà Nội dành cho cá nhân và doanh nghiệp." },
+  "status": "published"
+}

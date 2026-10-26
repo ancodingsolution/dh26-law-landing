@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "eyebrow": "ĐỒNG HÀNH PHÁP LÝ – KIẾN TẠO GIÁ TRỊ BỀN VỮNG",
+    "heading": "Giải pháp pháp lý cho cá nhân và doanh nghiệp",
+    "description": "Cung cấp dịch vụ pháp lý chuyên nghiệp, tận tâm và phù hợp với nhu cầu của khách hàng.",
+    "visualCaption": "UY TÍN · CHUẨN MỰC · ĐỒNG HÀNH",
+    "image": { "src": "/images/legal-hero-v2.webp", "alt": "" }
+  },
+  "trust": [
+    { "title": "Lắng nghe & thấu hiểu", "text": "Bắt đầu từ nhu cầu của khách hàng." },
+    { "title": "Tiếp cận thận trọng", "text": "Xem xét thông tin của từng vụ việc." },
+    { "title": "Trao đổi minh bạch", "text": "Thống nhất phạm vi công việc rõ ràng." },
+    { "title": "Đồng hành cùng bạn", "text": "Phối hợp trong từng bước công việc." }
+  ],
+  "services": {
+    "eyebrow": "LĨNH VỰC HOẠT ĐỘNG",
+    "heading": "Dịch vụ pháp lý toàn diện",
+    "description": "Bốn lĩnh vực hoạt động theo đăng ký của công ty, hướng đến nhu cầu pháp lý của cá nhân và doanh nghiệp."
+  },
+  "serviceSlugs": ["tham-gia-to-tung", "tu-van-phap-luat", "dai-dien-ngoai-to-tung", "dich-vu-phap-ly-khac"],
+  "about": {
+    "eyebrow": "VỀ DH26 LAW",
+    "heading": "Tận tâm trong từng bước đồng hành.",
+    "description": "DH26 LAW là công ty luật tại Hà Nội, hoạt động trong các lĩnh vực tham gia tố tụng, tư vấn pháp luật, đại diện ngoài tố tụng và dịch vụ pháp lý khác.",
+    "text": "Chúng tôi đề cao việc lắng nghe, trao đổi rõ ràng và tìm hiểu bối cảnh thực tế để xác định hướng hỗ trợ phù hợp với từng yêu cầu.",
+    "visualCaption": "NỀN TẢNG CHUẨN MỰC · GIÁ TRỊ BỀN VỮNG",
+    "image": { "src": "/images/legal-architecture-v2.webp", "alt": "Ảnh minh họa cột kiến trúc cổ điển trong ánh sáng tự nhiên." }
+  },
+  "valuesHeading": "Những giá trị chúng tôi hướng đến",
+  "values": [
+    { "title": "Uy tín", "text": "Cẩn trọng trong việc tiếp nhận thông tin, giữ gìn sự tin cậy trong quan hệ với khách hàng." },
+    { "title": "Chuẩn mực", "text": "Tôn trọng pháp luật, quy tắc đạo đức và ứng xử nghề nghiệp luật sư." },
+    { "title": "Đồng hành", "text": "Trao đổi và cập nhật công việc trong phạm vi dịch vụ đã thống nhất." }
+  ],
+  "process": {
+    "eyebrow": "QUY TRÌNH DỊCH VỤ",
+    "heading": "Làm việc chuyên nghiệp, minh bạch",
+    "description": "Quy trình đề xuất để bạn hình dung cách tiếp cận và phối hợp cùng DH26 LAW."
+  },
+  "steps": [
+    { "title": "Tiếp nhận yêu cầu", "text": "Lắng nghe nhu cầu và tiếp nhận những thông tin ban đầu." },
+    { "title": "Phân tích & tư vấn", "text": "Xem xét thông tin, trao đổi hướng xử lý và phạm vi hỗ trợ." },
+    { "title": "Triển khai công việc", "text": "Thực hiện công việc theo nội dung và thỏa thuận đã thống nhất." },
+    { "title": "Cập nhật & đồng hành", "text": "Trao đổi tiến độ và phối hợp xử lý các vấn đề phát sinh." }
+  ],
+  "contact": {
+    "eyebrow": "LIÊN HỆ VỚI CHÚNG TÔI",
+    "heading": "Chia sẻ vấn đề.\nCùng tìm hướng đi.",
+    "description": "Để lại thông tin và nội dung cần hỗ trợ. Bạn cũng có thể liên hệ trực tiếp với công ty qua điện thoại hoặc email.",
+    "cardHeading": "Tư vấn pháp lý",
+    "directLabel": "HOẶC LIÊN HỆ TRỰC TIẾP"
+  }
+}
